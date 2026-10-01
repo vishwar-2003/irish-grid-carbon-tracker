@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: irish-grid-carbon-tracker
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    envVars:
+      - key: DATA_MODE
+        value: auto
+      - key: GRID_REGION
+        value: ROI

@@ -1,0 +1,304 @@
+{
+ "Rows": [
+  {
+   "EffectiveTime": "29-Sep-2026 00:00:00",
+   "FieldName": "CO2_INTENSITY",
+   "Region": "ROI",
+   "Value": 128
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:15:00",
+   "FieldName": "CO2_INTENSITY",
+   "Region": "ROI",
+   "Value": 131
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:30:00",
+   "FieldName": "CO2_INTENSITY",
+   "Region": "ROI",
+   "Value": 135
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:45:00",
+   "FieldName": "CO2_INTENSITY",
+   "Region": "ROI",
+   "Value": 140
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:00:00",
+   "FieldName": "CO2_INTENSITY",
+   "Region": "ROI",
+   "Value": 138
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:15:00",
+   "FieldName": "CO2_INTENSITY",
+   "Region": "ROI",
+   "Value": 142
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:30:00",
+   "FieldName": "CO2_INTENSITY",
+   "Region": "ROI",
+   "Value": 150
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:45:00",
+   "FieldName": "CO2_INTENSITY",
+   "Region": "ROI",
+   "Value": 149
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:00:00",
+   "FieldName": "CO2_EMISSIONS",
+   "Region": "ROI",
+   "Value": 513
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:15:00",
+   "FieldName": "CO2_EMISSIONS",
+   "Region": "ROI",
+   "Value": 528
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:30:00",
+   "FieldName": "CO2_EMISSIONS",
+   "Region": "ROI",
+   "Value": 513
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:45:00",
+   "FieldName": "CO2_EMISSIONS",
+   "Region": "ROI",
+   "Value": 494
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:00:00",
+   "FieldName": "CO2_EMISSIONS",
+   "Region": "ROI",
+   "Value": 500
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:15:00",
+   "FieldName": "CO2_EMISSIONS",
+   "Region": "ROI",
+   "Value": 510
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:30:00",
+   "FieldName": "CO2_EMISSIONS",
+   "Region": "ROI",
+   "Value": 520
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:45:00",
+   "FieldName": "CO2_EMISSIONS",
+   "Region": "ROI",
+   "Value": 515
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:00:00",
+   "FieldName": "WIND_ACTUAL",
+   "Region": "ROI",
+   "Value": 2586
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:15:00",
+   "FieldName": "WIND_ACTUAL",
+   "Region": "ROI",
+   "Value": 2623
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:30:00",
+   "FieldName": "WIND_ACTUAL",
+   "Region": "ROI",
+   "Value": 2550
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:45:00",
+   "FieldName": "WIND_ACTUAL",
+   "Region": "ROI",
+   "Value": 2500
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:00:00",
+   "FieldName": "WIND_ACTUAL",
+   "Region": "ROI",
+   "Value": 2480
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:15:00",
+   "FieldName": "WIND_ACTUAL",
+   "Region": "ROI",
+   "Value": 2400
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:30:00",
+   "FieldName": "WIND_ACTUAL",
+   "Region": "ROI",
+   "Value": 2300
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:45:00",
+   "FieldName": "WIND_ACTUAL",
+   "Region": "ROI",
+   "Value": 2310
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:00:00",
+   "FieldName": "SYSTEM_DEMAND",
+   "Region": "ROI",
+   "Value": 3629
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:15:00",
+   "FieldName": "SYSTEM_DEMAND",
+   "Region": "ROI",
+   "Value": 3648
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:30:00",
+   "FieldName": "SYSTEM_DEMAND",
+   "Region": "ROI",
+   "Value": 3600
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:45:00",
+   "FieldName": "SYSTEM_DEMAND",
+   "Region": "ROI",
+   "Value": 3580
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:00:00",
+   "FieldName": "SYSTEM_DEMAND",
+   "Region": "ROI",
+   "Value": 3550
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:15:00",
+   "FieldName": "SYSTEM_DEMAND",
+   "Region": "ROI",
+   "Value": 3500
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:30:00",
+   "FieldName": "SYSTEM_DEMAND",
+   "Region": "ROI",
+   "Value": 3480
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:45:00",
+   "FieldName": "SYSTEM_DEMAND",
+   "Region": "ROI",
+   "Value": 3470
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:00:00",
+   "FieldName": "SOLAR_ACTUAL",
+   "Region": "ROI",
+   "Value": 0
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:15:00",
+   "FieldName": "SOLAR_ACTUAL",
+   "Region": "ROI",
+   "Value": 0
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:30:00",
+   "FieldName": "SOLAR_ACTUAL",
+   "Region": "ROI",
+   "Value": 0
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:45:00",
+   "FieldName": "SOLAR_ACTUAL",
+   "Region": "ROI",
+   "Value": 0
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:00:00",
+   "FieldName": "SOLAR_ACTUAL",
+   "Region": "ROI",
+   "Value": 0
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:15:00",
+   "FieldName": "SOLAR_ACTUAL",
+   "Region": "ROI",
+   "Value": 0
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:30:00",
+   "FieldName": "SOLAR_ACTUAL",
+   "Region": "ROI",
+   "Value": 0
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:45:00",
+   "FieldName": "SOLAR_ACTUAL",
+   "Region": "ROI",
+   "Value": 0
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:00:00",
+   "FieldName": "WIND_FCAST",
+   "Region": "ROI",
+   "Value": 2500
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:15:00",
+   "FieldName": "WIND_FCAST",
+   "Region": "ROI",
+   "Value": 2600
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:30:00",
+   "FieldName": "WIND_FCAST",
+   "Region": "ROI",
+   "Value": 2560
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 00:45:00",
+   "FieldName": "WIND_FCAST",
+   "Region": "ROI",
+   "Value": 2490
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:00:00",
+   "FieldName": "WIND_FCAST",
+   "Region": "ROI",
+   "Value": 2470
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:15:00",
+   "FieldName": "WIND_FCAST",
+   "Region": "ROI",
+   "Value": 2410
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:30:00",
+   "FieldName": "WIND_FCAST",
+   "Region": "ROI",
+   "Value": 2290
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 01:45:00",
+   "FieldName": "WIND_FCAST",
+   "Region": "ROI",
+   "Value": 2300
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 02:00:00",
+   "FieldName": "DEMAND_FORECAST_VALUE",
+   "Region": "ROI",
+   "Value": null
+  },
+  {
+   "EffectiveTime": "29-Sep-2026 02:00:00",
+   "FieldName": "SYS_FREQUENCY",
+   "Region": "ROI",
+   "Value": 50.0
+  }
+ ]
+}
